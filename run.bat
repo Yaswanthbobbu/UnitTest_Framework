@@ -1,1 +1,1 @@
-python Test_OrangeHRM.py
+python TestCases\Test_OrangeHRM.py
